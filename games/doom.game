@@ -3,5 +3,6 @@
   "title": "Doom",
   "platform": "PS4",
   "score": 9,
-  "progress": 0.46
+  "progress": 0.46,
+  "finished": true
 }
