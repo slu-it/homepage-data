@@ -4,5 +4,26 @@
   "platform": "PS4",
   "score": 9,
   "progress": 0.69,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Automatron",
+      "finished": true
+    },{
+      "title": "Wasteland Workshop",
+      "finished": false
+    },{
+      "title": "Far Harbor",
+      "finished": true
+    },{
+      "title": "Contraptions Workshop",
+      "finished": false
+    },{
+      "title": "Vault-Tec Workshop",
+      "finished": false
+    },{
+      "title": "Nuka-World",
+      "finished": false
+    }
+  ]
 }
