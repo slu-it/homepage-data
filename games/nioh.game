@@ -4,5 +4,14 @@
   "platform": "PS4",
   "score": 9,
   "progress": 0.81,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Dragon of the North",
+      "finished": false
+    },{
+      "title": "Defiant Honor",
+      "finished": false
+    }
+  ]
 }
