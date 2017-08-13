@@ -4,5 +4,32 @@
   "platform": "PS4",
   "score": 8,
   "progress": 0.37,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "A Matter of Family",
+      "finished": false
+    },{
+      "title": "Harley Quinn Story pack",
+      "finished": true
+    },{
+      "title": "Red Hood Story pack",
+      "finished": false
+    },{
+      "title": "Scarecrow Nightmare Missions",
+      "finished": false
+    },{
+      "title": "GCPD Lockdown",
+      "finished": false
+    },{
+      "title": "Catwoman's Revenge",
+      "finished": false
+    },{
+      "title": "A Flip of a Coin",
+      "finished": false
+    },{
+      "title": "Season of Infamy",
+      "finished": false
+    }
+  ]
 }
