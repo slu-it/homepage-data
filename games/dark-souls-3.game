@@ -4,5 +4,13 @@
   "platform": "PS4",
   "score": 10,
   "progress": 0.93,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Ashes of Ariandel",
+      "finished": true
+    },{
+      "title": "The Ringed City",
+      "finished": false
+    }
 }
