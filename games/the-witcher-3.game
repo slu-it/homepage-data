@@ -3,6 +3,14 @@
   "title": "The Witcher 3: Wild Hunt",
   "platform": "PS4",
   "score": 10,
-  "progress": 0.62,
-  "finished": true
+  "progress": 0.67,
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Hearts of Stone",
+      "finished": true
+    },{
+      "title": "Blood and Wine",
+      "finished": true
+    }
 }
