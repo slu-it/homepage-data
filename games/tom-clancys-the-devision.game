@@ -3,6 +3,17 @@
   "title": "Tom Clancy's The Devision",
   "platform": "PS4",
   "score": 8,
-  "progress": 0.73,
-  "finished": true
+  "progress": 0.96,
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Underground",
+      "finished": false
+    },{
+      "title": "Survival",
+      "finished": false
+    },{
+      "title": "Last Stand",
+      "finished": false
+    }
 }
