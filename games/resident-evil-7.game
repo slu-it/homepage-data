@@ -4,5 +4,14 @@
   "platform": "PS4",
   "score": 9,
   "progress": 0.31,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Banned Footage Vol. 1",
+      "finished": true
+    },{
+      "title": "Banned Footage Vol. 2",
+      "finished": true
+    }
+  ]
 }
