@@ -4,5 +4,20 @@
   "platform": "PS4",
   "score": 8,
   "progress": 0.45,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Catwoman Pack",
+      "finished": false
+    },{
+      "title": "Robin Bundle Pack",
+      "finished": false
+    },{
+      "title": "Nightwing Bundle Pack",
+      "finished": false
+    },{
+      "title": "Harley Quinn's Revenge",
+      "finished": true
+    }
+  ]
 }
