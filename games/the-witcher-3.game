@@ -3,5 +3,6 @@
   "title": "The Witcher 3: Wild Hunt",
   "platform": "PS4",
   "score": 10,
-  "progress": 0.62
+  "progress": 0.62,
+  "finished": true
 }
