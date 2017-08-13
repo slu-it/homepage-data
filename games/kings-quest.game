@@ -3,5 +3,6 @@
   "title": "King's Quest",
   "platform": "PS4",
   "score": 7,
-  "progress": 0.58
+  "progress": 0.58,
+  "finished": true
 }
