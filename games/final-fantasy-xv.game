@@ -3,5 +3,6 @@
   "title": "Final Fantasy XV",
   "platform": "PS4",
   "score": 7,
-  "progress": 0.50
+  "progress": 0.50,
+  "finished": true
 }
