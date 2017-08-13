@@ -3,5 +3,6 @@
   "title": "Bloodborne",
   "platform": "PS4",
   "score": 10,
-  "progress": 1.00
+  "progress": 1.00,
+  "finished": true
 }
