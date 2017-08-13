@@ -4,5 +4,14 @@
   "platform": "PS4",
   "score": 8,
   "progress": 0.60,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Lord of the Hunt",
+      "finished": false
+    },{
+      "title": "The Bright Lord",
+      "finished": false
+    }
+  ]
 }
