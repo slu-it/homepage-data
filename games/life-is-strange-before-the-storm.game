@@ -6,6 +6,14 @@
     {
       "title": "Episode 1",
       "finished": true
+    },
+    {
+      "title": "Episode 2",
+      "finished": true
+    },
+    {
+      "title": "Episode 3",
+      "finished": false
     }
   ]
 }
