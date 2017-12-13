@@ -2,5 +2,6 @@
   "year": "2017",
   "title": "Wolfenstein II: The New Colossus",
   "platform": "PS4",
-  "finished": false
+  "finished": true,
+  "score": 9
 }
