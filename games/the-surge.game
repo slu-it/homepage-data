@@ -4,5 +4,11 @@
   "platform": "PS4",
   "score": 8,
   "progress": 1.00,
-  "finished": true
+  "finished": true,
+  "dlc": [
+    {
+      "title": "CREO World",
+      "finished": false
+    }
+  ]
 }
