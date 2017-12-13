@@ -2,5 +2,23 @@
   "year": "2017",
   "title": "Batman (Season 2)",
   "platform": "PS4",
-  "progress": 0.60
+  "progress": 0.60,
+  "dlc": [
+    {
+      "title": "Episode 1",
+      "finished": true
+    },{
+      "title": "Episode 1",
+      "finished": true
+    },{
+      "title": "Episode 3",
+      "finished": true
+    },{
+      "title": "Episode 4",
+      "finished": false
+    },{
+      "title": "Episode 5",
+      "finished": false
+    }
+  ]
 }
