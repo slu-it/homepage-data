@@ -2,5 +2,15 @@
   "year": "2017",
   "title": "The Legend of Zelda: Breath of the Wild",
   "platform": "Switch",
-  "score": 10
+  "score": 10,
+  "finished": true,
+  "dlc": [
+    {
+      "title": "Trial of the Sword",
+      "finished": false
+    },{
+      "title": "The Champions' Ballad",
+      "finished": false
+    }
+  ]
 }
