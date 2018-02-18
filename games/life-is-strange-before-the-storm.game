@@ -2,6 +2,8 @@
   "year": "2017",
   "title": "Life Is Strange: Before the Storm",
   "platform": "PS4",
+  "score": 8,
+  "finished": true,
   "dlc": [
     {
       "title": "Episode 1",
@@ -13,7 +15,7 @@
     },
     {
       "title": "Episode 3",
-      "finished": false
+      "finished": true
     }
   ]
 }
